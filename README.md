@@ -1,4 +1,5 @@
 # aim-game
+bogushukr.github.io/aim-game/
 
 ## Hack the game and get maximum points:
 function winTheGame() {\
