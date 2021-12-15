@@ -9,6 +9,6 @@ circle.click();\
 }\
 }\
 setInterval(kill, 75);\
-};\
+};
 
-winTheGame();\
+winTheGame();
